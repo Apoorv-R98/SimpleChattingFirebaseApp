@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933513892915",
+    "firebase_url": "https://simplechattingfirebaseapp.firebaseio.com",
+    "project_id": "simplechattingfirebaseapp",
+    "storage_bucket": "simplechattingfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933513892915:android:30cf965700e01716c53f46",
+        "android_client_info": {
+          "package_name": "com.apoorv.simplechattingfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933513892915-no8072blj2s6mmkqmkch9r7rpvdajtqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apoorv.simplechattingfirebaseapp",
+            "certificate_hash": "87674cd93c7e6da1e6b6a3e69a87f58361188514"
+          }
+        },
+        {
+          "client_id": "933513892915-jnum2fptqhnnbhnbbgisr2s7npmpf3qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpkReEsfe-DTq1Dr3u2t14jfi8XLPSgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933513892915-jnum2fptqhnnbhnbbgisr2s7npmpf3qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
